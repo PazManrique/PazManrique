@@ -1,7 +1,7 @@
 
 # María Paz Manrique
 Always ready to new challengues: <br>
-New contry, New Carrear. <br>
+New country, New Career. <br>
 In Argentina I graduated as a Vet. <br>
  Now in Spain, i am undertaking a Full Stack development Bootcamp with Factoria F5 (850 hours.
 
