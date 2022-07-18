@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**PazManrique/PazManrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# María Paz Manrique
+Always ready to new challengues: <br>
+New contry, New Carrear. <br>
+In Argentina I graduated as a Vet. <br>
+ Now in Spain, i am undertaking a Full Stack development Bootcamp with Factoria F5 (850 hours.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+-  I love SCRUM framework and team work. 
+-  I am a #IamRemarkable facilitator.
+-  I believe that soft skills are essential for our personal and professional growth.
+-  CAE (C1). Cambridge University. English is the window that allows us to explore the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/MariaPazManrique)
+
+
+## Acknowledgements
+
+ - [Factoría F5](https://factoriaf5.org/)
+ - [#IamRemarkable](https://iamremarkable.withgoogle.com/)
+ 
+
+
